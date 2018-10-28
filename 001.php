@@ -10,6 +10,8 @@ $MyPostRequestClassObject = new MyPostRequestClass();
 
 $result = $MyPostRequestClassObject->MyPostRequestFunction($url,$data);
 
+//A comment added
+
 echo $result;
 
 // var_dump($result);
